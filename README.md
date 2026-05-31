@@ -4,11 +4,7 @@
 
 ## About
 
-This portfolio documents my hands-on security code review work across multiple platforms and vulnerability classes. Each finding includes the vulnerable code snippet, an explanation of the flaw, how it can be exploited, and the recommended fix — mapped to the OWASP Top 10 where applicable.
-
-I'm a final-year Information Sciences student at the University of Pretoria with a cybersecurity focus, currently building offensive security skills through the CyberHER programme, HackTheBox, TryHackMe, OverTheWire, and PortSwigger Web Security Academy.
-
----
+This portfolio documents my hands-on security code review work across multiple platforms and vulnerability classes. Each finding includes the vulnerable code snippet, an explanation of the flaw, how it can be exploited, and the recommended fix, mapped to the OWASP Top 10 where applicable.
 
 ## Repository Structure
 
@@ -33,12 +29,13 @@ Each folder contains a `README.md` with:
 ## Sources
 
 Findings are sourced from:
-- **OverTheWire** — wargame labs with visible vulnerable code
-- **PortSwigger Web Security Academy** — code review focused labs
+- **Secure Code Dojo - OWASP**
+- **OverTheWire** - wargame labs with visible vulnerable code
+- **PortSwigger Web Security Academy** - code review focused labs
 - **DVWA** (Damn Vulnerable Web Application)
-- **WebGoat** — OWASP's deliberately vulnerable app
-- **YesWeHack GitHub** — vulnerable code snippet examples
-- **GitHub Advisory Database** — real-world CVEs with code-level analysis
+- **WebGoat** - OWASP's deliberately vulnerable app
+- **YesWeHack GitHub** - vulnerable code snippet examples
+- **GitHub Advisory Database** - real-world CVEs with code-level analysis
 
 ---
 

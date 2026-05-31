@@ -53,10 +53,3 @@ Findings are sourced from:
 - [ ] *(expanding)*
 
 ---
-
-## Connect
-
-- **LinkedIn:** [your LinkedIn]
-- **HackTheBox:** [your profile]
-- **TryHackMe:** [your profile]
-- **Brand:** Cyberflair
